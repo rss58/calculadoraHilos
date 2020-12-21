@@ -1,0 +1,3 @@
+pFrame.SCSubconjuntosTotal
+pFrame.SCSubconjuntosSum0
+pFrame.FParalelo
